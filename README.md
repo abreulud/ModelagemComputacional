@@ -116,5 +116,5 @@ Depois, os grupos são interpretados como baixo consumo, consumo médio, alto co
 
 ---
 
-| Os dados deste projeto são simulados e foram criados apenas para fins acadêmicos.
+> Os dados deste projeto são simulados e foram criados apenas para fins acadêmicos.
 
