@@ -1,0 +1,21 @@
+bairro,num_unidades_consumidoras,consumo_medio_kwh,consumo_total_kwh,perda_estimada_pct
+Suburbio,25000,150,3750000,16.2
+Cajazeiras,30000,140,4200000,17.8
+Sao Caetano,20000,160,3200000,15.4
+Liberdade,22000,155,3410000,16.9
+Periperi,19000,135,2565000,18.5
+Paripe,21000,145,3045000,17.2
+Brotas,18000,310,5580000,10.8
+Itapua,14000,290,4060000,11.5
+Cabula,16000,270,4320000,12.1
+Federacao,8000,300,2400000,10.4
+Rio Vermelho,9500,350,3325000,8.9
+Barra,12000,480,5760000,6.7
+Pituba,15000,510,7650000,5.9
+Caminho das Arvores,9000,530,4770000,5.4
+Graca,7000,470,3290000,6.3
+Horto Florestal,6000,560,3360000,4.8
+Ondina,7500,490,3675000,6.1
+CIA - Polo Industrial,1200,2800,3360000,7.5
+Comercio,3500,1900,6650000,8.1
+Aeroporto,800,2200,1760000,6.9

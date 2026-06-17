@@ -1,0 +1,21 @@
+bairro,num_unidades_consumidoras,consumo_medio_kwh,consumo_total_kwh,perda_estimada_pct,cluster,tipo_consumo
+Suburbio,25000,150,3750000,16.2,2,Baixo consumo
+Cajazeiras,30000,140,4200000,17.8,2,Baixo consumo
+Sao Caetano,20000,160,3200000,15.4,2,Baixo consumo
+Liberdade,22000,155,3410000,16.9,2,Baixo consumo
+Periperi,19000,135,2565000,18.5,2,Baixo consumo
+Paripe,21000,145,3045000,17.2,2,Baixo consumo
+Brotas,18000,310,5580000,10.8,0,Consumo medio
+Itapua,14000,290,4060000,11.5,0,Consumo medio
+Cabula,16000,270,4320000,12.1,0,Consumo medio
+Federacao,8000,300,2400000,10.4,0,Consumo medio
+Rio Vermelho,9500,350,3325000,8.9,0,Consumo medio
+Barra,12000,480,5760000,6.7,3,Alto consumo
+Pituba,15000,510,7650000,5.9,3,Alto consumo
+Caminho das Arvores,9000,530,4770000,5.4,3,Alto consumo
+Graca,7000,470,3290000,6.3,3,Alto consumo
+Horto Florestal,6000,560,3360000,4.8,3,Alto consumo
+Ondina,7500,490,3675000,6.1,3,Alto consumo
+CIA - Polo Industrial,1200,2800,3360000,7.5,1,Grande consumidor
+Comercio,3500,1900,6650000,8.1,1,Grande consumidor
+Aeroporto,800,2200,1760000,6.9,1,Grande consumidor
